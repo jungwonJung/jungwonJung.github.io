@@ -3,7 +3,7 @@ title: JavaScript - An Interpreted, Dynamic, Object-Oriented Language with Primi
 author: JungWon
 date: 2023-08-04 17:50:00 +0200
 categories: [JavaScript]
-tags: [typography]
+tags: [JS]
 pin: true
 math: true
 mermaid: true

@@ -3,7 +3,7 @@ title: Characteristics of Compiled Languages and Numeric Data Types in JavaScrip
 author: JungWon
 date: 2023-08-04 18:10:00 +0200
 categories: [JavaScript]
-tags: [typography]
+tags: [JS]
 pin: true
 math: true
 mermaid: true
